@@ -20,9 +20,23 @@ If a board is missing email: <m2@adafruit.com> / open an issue and/or pull reque
 
 [![M.2 Accelerator with Dual Edge TPU](./images/coralm2.jpg)](https://coral.ai/products/m2-accelerator-dual-edgetpu)
 
-M.2 Accelerator with Dual Edge TPU, M.2 E-key form factor - [product page](https://coral.ai/products/m2-accelerator-dual-edgetpu) and [datasheet](https://coral.ai/docs/m2-dual-edgetpu/datasheet/). Release date: [September 19, 2020](https://developers.googleblog.com/2020/09/doubling-down-on-edge-with-corals-new.html).
+M.2 Accelerator with Dual Edge TPU, M.2 E-key form factor - [product page](https://coral.ai/products/m2-accelerator-dual-edgetpu), [datasheet & documentation](https://coral.ai/docs/m2-dual-edgetpu/datasheet/). 
+
+Release date: [September 19, 2020](https://developers.googleblog.com/2020/09/doubling-down-on-edge-with-corals-new.html).
+
+---
 
 ## makerdiary
+
+[![nRF52840 M.2 Module](./images/nRF52840makerdiary.jpg)](https://makerdiary.com/collections/prototyping/products/nrf52840-m2-module)
+
+nRF52840 M.2 Module, M.2 E-key form factor - [product page](https://makerdiary.com/collections/prototyping/products/nrf52840-m2-module), [datasheet & documentation](https://wiki.makerdiary.com/nrf52840-m2/). 
+
+Release date: [July 11, 2020](https://github.com/makerdiary/nrf52840-m2/blob/master/README.md).
+
+makerdiary and SparkFun MicroMod [do not appear](https://twitter.com/bitshiftmask/status/1319695270569967616) to be compatable - [comparison](https://docs.google.com/spreadsheets/d/1Z9QjP8fAvubUfc8ZP4rFAF2qbMxP0rMNrEVA8LHFWLg/edit#gid=0).
+
+---
 
 ## Particle
 
