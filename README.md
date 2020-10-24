@@ -1,6 +1,6 @@
-# m.2
+# M.2
 
-This repo, wiki, and issues/discussions are a collection of the current implementations for use as microcontrollers and modules started from a [Twitter discussion](https://twitter.com/zs/status/1319691639586082816).
+This repo, wiki, and issues/discussions are a collection of the current implementations of M.2 form factor for use as microcontrollers and modules started from a [Twitter discussion](https://twitter.com/zs/status/1319691639586082816).
 
 What is M.2?
 
@@ -10,7 +10,7 @@ What is M.2?
 - [Google](#Google)
 - [makerdiary](#makerdiary)
 - [Particle](#Particle)
-- [Sipped](#Sipped)
+- [Sipeed](#Sipped)
 - [SparkFun](#SparkFun)
 - [WRTnode](#WRTnode)
 
@@ -20,13 +20,13 @@ If a board is missing email: <m2@adafruit.com> / open an issue and/or pull reque
 
 [![M.2 Accelerator with Dual Edge TPU](./images/coralm2.jpg)](https://coral.ai/products/m2-accelerator-dual-edgetpu)
 
-M.2 Accelerator with Dual Edge TPU, [product page](https://coral.ai/products/m2-accelerator-dual-edgetpu) and [datasheet](https://coral.ai/docs/m2-dual-edgetpu/datasheet/).
+M.2 Accelerator with Dual Edge TPU, M.2 E-key form factor - [product page](https://coral.ai/products/m2-accelerator-dual-edgetpu) and [datasheet](https://coral.ai/docs/m2-dual-edgetpu/datasheet/). Release date: [September 19, 2020](https://developers.googleblog.com/2020/09/doubling-down-on-edge-with-corals-new.html).
 
 ## makerdiary
 
 ## Particle
 
-## Sipped
+## Sipeed
 
 ## SparkFun
 
