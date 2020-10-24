@@ -6,7 +6,7 @@ This repo, wiki, and issues/[discussions](https://github.com/adafruit/M.2/issues
 
 > M.2, formerly known as the Next Generation Form Factor (NGFF), is a specification for internally mounted computer expansion cards and associated connectors. M.2 replaces the mSATA standard, which uses the PCI Express Mini Card physical card layout and connectors. Employing a more flexible physical specification, the M.2 allows different module widths and lengths, and, paired with the availability of more advanced interfacing features, makes the M.2 more suitable than mSATA in general for solid-state storage applications, and particularly in smaller devices such as ultrabooks and tablets - [Wikipedia](https://en.wikipedia.org/wiki/M.2).
 
-makerdiary, Paricle, and SparkFun boards do not appear to be compatible at this time (see pinouts, links, and datasheets).
+[![Boards](./images/boards.jpg)](https://github.com/adafruit/M.2)
 
 ## M.2 Processor modules (not Wi-Fi / cellular accessory cards)
 - [Google](#Google)
@@ -15,6 +15,8 @@ makerdiary, Paricle, and SparkFun boards do not appear to be compatible at this 
 - [Sipeed](#Sipped)
 - [SparkFun](#SparkFun)
 - [WRTnode](#WRTnode)
+
+makerdiary, Paricle, and SparkFun boards do not appear to be compatible at this time (see pinouts, links, and datasheets).
 
 If a board is missing, release date incorrect, etc. email: <m2@adafruit.com> / or open an issue / pull request.
 
