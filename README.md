@@ -24,7 +24,7 @@ M.2 Accelerator with Dual Edge TPU, M.2 E-key form factor - [product page](https
 
 Release date: [September 19, 2020](https://developers.googleblog.com/2020/09/doubling-down-on-edge-with-corals-new.html).
 
----
+
 
 ## makerdiary
 
@@ -36,12 +36,43 @@ Release date: [July 11, 2020](https://github.com/makerdiary/nrf52840-m2/blob/mas
 
 makerdiary and SparkFun MicroMod [do not appear](https://twitter.com/bitshiftmask/status/1319695270569967616) to be compatable - [comparison](https://docs.google.com/spreadsheets/d/1Z9QjP8fAvubUfc8ZP4rFAF2qbMxP0rMNrEVA8LHFWLg/edit#gid=0).
 
----
+
 
 ## Particle
 
+[![B Series LTE CAT-M1](./images/particlem2.jpg)](https://store.particle.io/products/b-series-lte-som)
+
+B Series LTE CAT-M1 - [product page](https://store.particle.io/products/b-series-lte-som), [datasheet & documentation](https://docs.particle.io/b-series/).
+
+Release date: [October 19, 2020](https://github.com/particle-iot/som-eval-board).
+
+
+
 ## Sipeed
+
+[![K210 Edge Neural Network Accelerator](./images/sipeed.jpg)](https://www.sipeed.com/)
+
+K210 Edge Neural Network Accelerator - [product page](https://www.sipeed.com/), [datasheet & documentation, none found](https://www.hackster.io/news/sipeed-brings-kendryte-s-k210-edge-neural-network-accelerator-to-pcie-m-2-usb-type-c-with-maix-nano-89aa85ef32c0).
+
+Release date: February 2020.
+
+
 
 ## SparkFun
 
+[![MicroMod](./images/sparkfun.jpg)](https://www.sparkfun.com/micromod)
+
+MicroMod - [product page](https://www.sparkfun.com/micromod), [datasheet & documentation](https://www.sparkfun.com/micromod#tech-specs).
+
+Release date: [October 21, 2020](https://www.sparkfun.com/news/3419).
+
+
+
 ## WRTnode
+
+[![WRTnode2P - Devboard](./images/DFR0441.jpg)](http://wrtnode.com/w/?p=727)
+
+WRTnode2P - Devboard - [product page](http://wrtnode.com/w/?p=727), [DFRobot](https://www.dfrobot.com/product-1541.html), [datasheet & documentation](http://wrtnode.com/w/?p=727).
+
+Release date: 2017.
+
