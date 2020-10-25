@@ -85,8 +85,8 @@ Release date: 2017.
 
 ## SNAPZZ
 
-[![SNAPZZ - mod001](./images/snapzz-mod001.png)]
+![SNAPZZ - mod001](./images/snapzz-mod001.png)
 
-SNAPZZ [datasheet](https://github.com/digitalforge-io/snapzz-mod001/blob/main/Datasheet%20v1.0%20gen.1.pdf)
+SNAPZZ [Datasheet](https://github.com/digitalforge-io/snapzz-mod001/blob/main/Datasheet%20v1.0%20gen.1.pdf)
 
 Release date: October 2020
