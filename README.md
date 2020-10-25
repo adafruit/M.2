@@ -18,6 +18,8 @@ This repo, wiki, and issues/[discussions](https://github.com/adafruit/M.2/issues
 
 makerdiary, Particle, and SparkFun boards do not appear to be compatible at this time (see pinouts, links, and datasheets).
 
+A full pin function comparison in table format can be found in [comparison.md](./comparison.md)
+
 If a board is missing, release date incorrect, etc. email: <m2@adafruit.com> / or open an issue / pull request.
 
 ## Google
