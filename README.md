@@ -15,6 +15,7 @@ This repo, wiki, and issues/[discussions](https://github.com/adafruit/M.2/issues
 - [Sipeed](#Sipeed)
 - [SparkFun](#SparkFun)
 - [WRTnode](#WRTnode)
+- [SNAPZZ](#SNAPZZ)
 
 makerdiary, Particle, and SparkFun boards do not appear to be compatible at this time (see pinouts, links, and datasheets).
 
@@ -82,3 +83,10 @@ WRTnode2P - Devboard - [product page](http://wrtnode.com/w/?p=727), [DFRobot](ht
 
 Release date: 2017.
 
+## SNAPZZ
+
+[![SNAPZZ - mod001](./images/snapzz-mod001.png)]
+
+[datasheet](https://github.com/digitalforge-io/snapzz-mod001/blob/main/Datasheet%20v1.0%20gen.1.pdf)
+
+Release date: October 2020
