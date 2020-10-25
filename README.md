@@ -12,11 +12,11 @@ This repo, wiki, and issues/[discussions](https://github.com/adafruit/M.2/issues
 - [Google](#Google)
 - [makerdiary](#makerdiary)
 - [Particle](#Particle)
-- [Sipeed](#Sipped)
+- [Sipeed](#Sipeed)
 - [SparkFun](#SparkFun)
 - [WRTnode](#WRTnode)
 
-makerdiary, Paricle, and SparkFun boards do not appear to be compatible at this time (see pinouts, links, and datasheets).
+makerdiary, Particle, and SparkFun boards do not appear to be compatible at this time (see pinouts, links, and datasheets).
 
 If a board is missing, release date incorrect, etc. email: <m2@adafruit.com> / or open an issue / pull request.
 
@@ -38,7 +38,7 @@ nRF52840 M.2 Module, M.2 E-key form factor - [product page](https://makerdiary.c
 
 Release date: [July 11, 2020](https://github.com/makerdiary/nrf52840-m2/blob/master/README.md).
 
-makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875456) and SparkFun MicroMod [do not appear](https://twitter.com/bitshiftmask/status/1319695270569967616) to be compatable - [comparison](https://docs.google.com/spreadsheets/d/1Z9QjP8fAvubUfc8ZP4rFAF2qbMxP0rMNrEVA8LHFWLg/edit#gid=0).
+makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875456) and SparkFun MicroMod [do not appear](https://twitter.com/bitshiftmask/status/1319695270569967616) to be compatible - [comparison](https://docs.google.com/spreadsheets/d/1Z9QjP8fAvubUfc8ZP4rFAF2qbMxP0rMNrEVA8LHFWLg/edit#gid=0).
 
 
 
@@ -50,7 +50,7 @@ B Series LTE CAT-M1 - [product page](https://store.particle.io/products/b-series
 
 Release date: [October 19, 2020](https://github.com/particle-iot/som-eval-board).
 
-makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875456) and SparkFun MicroMod [do not appear](https://twitter.com/bitshiftmask/status/1319695270569967616) to be compatable - [comparison](https://docs.google.com/spreadsheets/d/1Z9QjP8fAvubUfc8ZP4rFAF2qbMxP0rMNrEVA8LHFWLg/edit#gid=0).
+makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875456) and SparkFun MicroMod [do not appear](https://twitter.com/bitshiftmask/status/1319695270569967616) to be compatible - [comparison](https://docs.google.com/spreadsheets/d/1Z9QjP8fAvubUfc8ZP4rFAF2qbMxP0rMNrEVA8LHFWLg/edit#gid=0).
 
 ## Sipeed
 
@@ -70,7 +70,7 @@ MicroMod - [product page](https://www.sparkfun.com/micromod), [datasheet & docum
 
 Release date: [October 21, 2020](https://www.sparkfun.com/news/3419).
 
-makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875456) and SparkFun MicroMod [do not appear](https://twitter.com/bitshiftmask/status/1319695270569967616) to be compatable - [comparison](https://docs.google.com/spreadsheets/d/1Z9QjP8fAvubUfc8ZP4rFAF2qbMxP0rMNrEVA8LHFWLg/edit#gid=0).
+makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875456) and SparkFun MicroMod [do not appear](https://twitter.com/bitshiftmask/status/1319695270569967616) to be compatible - [comparison](https://docs.google.com/spreadsheets/d/1Z9QjP8fAvubUfc8ZP4rFAF2qbMxP0rMNrEVA8LHFWLg/edit#gid=0).
 
 ## WRTnode
 
