@@ -56,7 +56,7 @@ makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875
 
 [![K210 Edge Neural Network Accelerator](./images/sipeed.jpg)](https://www.sipeed.com/)
 
-K210 Edge Neural Network Accelerator - [product page](https://www.sipeed.com/), [datasheet & documentation, none found](https://www.hackster.io/news/sipeed-brings-kendryte-s-k210-edge-neural-network-accelerator-to-pcie-m-2-usb-type-c-with-maix-nano-89aa85ef32c0).
+K210 Edge Neural Network Accelerator - [product page](https://www.seeedstudio.com/Sipeed-M1n-Module-AI-Development-Kit-based-on-K210-p-4491.html), [datasheet & documentation, none found](https://www.hackster.io/news/sipeed-brings-kendryte-s-k210-edge-neural-network-accelerator-to-pcie-m-2-usb-type-c-with-maix-nano-89aa85ef32c0).
 
 Release date: February 2020.
 
