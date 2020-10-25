@@ -16,9 +16,9 @@ This is an attempt to better understand the similarities and differences between
 | 8   | NC              | P0.20         | VCC        | G11         | GND        | WLED       |
 | 9   | NC              | P0.11         | GND        | USB_VIN     | IO34       | USB_DM     |
 | 10  | NC              | P0.21         | 3.3V       | D0          | RST        | LINK0      |
-| 11  | NC              | P0.12         | USB_D      | BOOT        | IO35       | GND        |
+| 11  | NC              | P0.12         | USB_DP     | BOOT        | IO35       | GND        |
 | 12  | NC              | P0.22         | 3.3V       | I2C_SDA     | Key B slot | Key B slot |
-| 13  | NC              | P1.08         | USB_D      | UART_RTS1   | Key B slot | Key B slot |
+| 13  | NC              | P1.08         | USB_DN     | UART_RTS1   | Key B slot | Key B slot |
 | 14  | NC              | P0.23         | RSV        | I2C_SCL     | Key B slot | Key B slot |
 | 15  | NC              | P1.09         | GND        | UART_CTS1   | Key B slot | Key B slot |
 | 16  | NC              | P0.24         | VUSB       | I2C_INT#    | Key B slot | Key B slot |
