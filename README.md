@@ -1,6 +1,6 @@
 # M.2
 
-This repo, wiki, and issues/[discussions](https://github.com/adafruit/M.2/issues/2) are a collection of the current implementations of M.2 form factor for use as microcontrollers and modules started from a [Twitter discussion](https://twitter.com/zs/status/1319691639586082816).
+This repo, wiki, and issues/[discussions](https://github.com/adafruit/M.2/issues/2) are a collection of the current implementations of M.2 form factor for use as microcontrollers and modules started from a [Twitter discussion](https://twitter.com/zs/status/1319691639586082816). Following that, [a discussion on "Desk of Ladyada" - YouTube](https://youtu.be/46zAO_3-ozY?t=781), as well as [how to find the connectors on Digi-Key](https://youtu.be/46zAO_3-ozY?t=1249).
 
 **What is M.2?**
 
