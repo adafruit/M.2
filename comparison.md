@@ -8,9 +8,9 @@ This is an attempt to better understand the similarities and differences between
 | --- | --------------- | --------------- | ------------- | ---------- | ----------- | ---------- | ---------- | ------------- |
 | 1   | GND             | GND             | GND           | GND        | GND         | IO39       | UART1_RX   | GND           |
 | 2   | 3.3V            | 3.3V            | 3.3V          | VCC        | 3.3V        | 5V         | 3.3V.      | 3.3V          |
-| 3   | USB_DP          | NC              | USB_DP        | GND        | USB_DP      | IO37       | GND        | NC            |
+| 3   | USB_DP          | NC              | USB_DP        | GND        | USB_DP      | IO37       | GND        | USB-DP        |
 | 4   | 3.3V            | 3.3V            | 3.3V          | VCC        | 3.3V EN     | 5V         | 3.3V       | 3.3V          |
-| 5   | USB_DM          | NC              | USB_DM        | GND        | USB_DM      | IO38       | GND        | NC            |
+| 5   | USB_DM          | NC              | USB_DM        | GND        | USB_DM      | IO38       | GND        | USB-DN        |
 | 6   | LED1#(I)(OD)    | NC              | P0.19         | VCC        | RESET#      | GND        | UART1_TX   | NC            |
 | 7   | GND             | GND             | GND           | GND        | GND         | IO36       | USB_DP     | NC            |
 | 8   | PCM (1.8V)      | NC              | P0.20         | VCC        | G11         | GND        | WLED       | NC            |
@@ -52,9 +52,9 @@ This is an attempt to better understand the similarities and differences between
 | 44  | COEX (1.8V)     | NC              | P1.00         | MOD USB_DP | G2 / BUS2   | SPI0_D7    | RXIN2      | NC            |
 | 45  | GND             | GND             | GND           | ADC6       | GND         | IO20       | GND        | NC            |
 | 46  | COEX (1.8V)     | NC              | P1.01         | MOD USB_DM | G3 / BUS3   | SPI0_D6    | RXIP2      | NC            |
-| 47  | REFCLKp0        | REFCLKp0        | RSV           | ADC7       | PWM1        | IO21       | PCIE_RXN   | USB-DN        |
+| 47  | REFCLKp0        | REFCLKp0        | RSV           | ADC7       | PWM1        | IO21       | PCIE_RXN   | NC            |
 | 48  | COEX (1.8V)     | NC              | P1.02         | CS         | G4 / BUS4   | SPI0_D5    | GPIO0      | USB-tgt-sel   |
-| 49  | REFCLKn0        | REFCLKn0        | RSV           | AGND       | BATT_VIN    | IO18       | PCIE_RXP   | USB-DP        |
+| 49  | REFCLKn0        | REFCLKn0        | RSV           | AGND       | BATT_VIN    | IO18       | PCIE_RXP   | NC            |
 | 50  | SUSCLK (32KHz)  | NC              | RSV           | MISO       | AUD_BCLK    | SPI0_D4    | PERSTN     | NC            |
 | 51  | GND             | GND             | GND           | RSV        | I2C_SDA1    | IO19       | GND        | NC            |
 | 52  | PERST0# (3.3V)  | PERST0# (3.3V)  | RSV           | MOSI       | AUD_LRCLK   | SPI0_D3    | RXIN1      | NC            |
