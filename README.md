@@ -6,16 +6,16 @@ This repo, wiki, and issues/[discussions](https://github.com/adafruit/M.2/issues
 
 > M.2, formerly known as the Next Generation Form Factor (NGFF), is a specification for internally mounted computer expansion cards and associated connectors. M.2 replaces the mSATA standard, which uses the PCI Express Mini Card physical card layout and connectors. Employing a more flexible physical specification, the M.2 allows different module widths and lengths, and, paired with the availability of more advanced interfacing features, makes the M.2 more suitable than mSATA in general for solid-state storage applications, and particularly in smaller devices such as ultrabooks and tablets - [Wikipedia](https://en.wikipedia.org/wiki/M.2).
 
-[![Boards](./images/boards.jpg)](https://github.com/adafruit/M.2)
+[![Boards](./images/boards2.jpg)](https://github.com/adafruit/M.2)
 
 ## M.2 Processor modules (not Wi-Fi / cellular accessory cards)
 - [Google](#Google)
 - [makerdiary](#makerdiary)
 - [Particle](#Particle)
 - [Sipeed](#Sipeed)
+- [SNAPZZ](#SNAPZZ)
 - [SparkFun](#SparkFun)
 - [WRTnode](#WRTnode)
-- [SNAPZZ](#SNAPZZ)
 
 makerdiary, Particle, and SparkFun boards do not appear to be compatible at this time (see pinouts, links, and datasheets).
 
@@ -55,6 +55,8 @@ Release date: [October 19, 2020](https://github.com/particle-iot/som-eval-board)
 
 makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875456) and SparkFun MicroMod [do not appear](https://twitter.com/bitshiftmask/status/1319695270569967616) to be compatible - [comparison](https://docs.google.com/spreadsheets/d/1Z9QjP8fAvubUfc8ZP4rFAF2qbMxP0rMNrEVA8LHFWLg/edit#gid=0).
 
+
+
 ## Sipeed
 
 [![K210 Edge Neural Network Accelerator](./images/sipeed.jpg)](https://www.sipeed.com/)
@@ -62,6 +64,16 @@ makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875
 K210 Edge Neural Network Accelerator - [product page](https://www.seeedstudio.com/Sipeed-M1n-Module-AI-Development-Kit-based-on-K210-p-4491.html), [datasheet & documentation, none found](https://www.hackster.io/news/sipeed-brings-kendryte-s-k210-edge-neural-network-accelerator-to-pcie-m-2-usb-type-c-with-maix-nano-89aa85ef32c0).
 
 Release date: February 2020.
+
+
+
+## SNAPZZ
+
+![SNAPZZ - mod001](./images/snapzz-mod001.png)
+
+SNAPZZ [Datasheet](https://github.com/digitalforge-io/snapzz-mod001/blob/main/Datasheet%20v1.0%20gen.1.pdf)
+
+Release date: October 2020
 
 
 
@@ -83,10 +95,3 @@ WRTnode2P - Devboard - [product page](http://wrtnode.com/w/?p=727), [DFRobot](ht
 
 Release date: 2017.
 
-## SNAPZZ
-
-![SNAPZZ - mod001](./images/snapzz-mod001.png)
-
-SNAPZZ [Datasheet](https://github.com/digitalforge-io/snapzz-mod001/blob/main/Datasheet%20v1.0%20gen.1.pdf)
-
-Release date: October 2020
