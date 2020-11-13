@@ -47,11 +47,23 @@ makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875
 
 ## Particle
 
-[![B Series LTE CAT-M1](./images/particlem2.jpg)](https://store.particle.io/products/b-series-lte-som)
+Release date: [October 16, 2019](https://blog.particle.io/b-series-system-on-module/).
 
-B Series LTE CAT-M1 - [product page](https://store.particle.io/products/b-series-lte-som), [datasheet & documentation](https://docs.particle.io/b-series/).
+### M.2 Main Boards
 
-Release date: [October 19, 2020](https://github.com/particle-iot/som-eval-board).
+[![B Series LTE CAT-M1](./images/particleb402.jpg)](https://store.particle.io/products/b-series-lte-som)
+[![B Series LTE CAT-1](./images/particleb523.png)](https://store.particle.io/products/b-series-lte-cat1)
+
+
+* B Series LTE CAT-M1 (North America) - [product page](https://store.particle.io/products/b-series-lte-som), [datasheet & documentation](https://docs.particle.io/b-series/).
+* B Series LTE CAT-1/3G/2G (Europe) - [product page](https://store.particle.io/products/b-series-lte-cat1), [datasheet & documentation](https://docs.particle.io/datasheets/boron/b523-datasheet/).
+
+### M.2 Base Boards
+
+[![B Series Eval Board](./images/particlebEval.png)](https://store.particle.io/products/som-evaluation-board)
+
+* B Series Evaluation Board - [product page](https://store.particle.io/products/som-evaluation-board), [datasheet & documentation](https://docs.particle.io/datasheets/boron/b-series-eval-board/).
+
 
 makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875456) and SparkFun MicroMod [do not appear](https://twitter.com/bitshiftmask/status/1319695270569967616) to be compatible - [comparison](https://docs.google.com/spreadsheets/d/1Z9QjP8fAvubUfc8ZP4rFAF2qbMxP0rMNrEVA8LHFWLg/edit#gid=0).
 
