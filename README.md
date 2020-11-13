@@ -55,7 +55,7 @@ Release date: [October 16, 2019](https://blog.particle.io/b-series-system-on-mod
 [![B Series LTE CAT-1](./images/particleb523.png)](https://store.particle.io/products/b-series-lte-cat1)
 
 
-* B Series LTE CAT-M1 - [product page](https://store.particle.io/products/b-series-lte-som), [datasheet & documentation](https://docs.particle.io/b-series/).
+* B Series LTE CAT-M1 (North America) - [product page](https://store.particle.io/products/b-series-lte-som), [datasheet & documentation](https://docs.particle.io/b-series/).
 * B Series LTE CAT-1/3G/2G (Europe) - [product page](https://store.particle.io/products/b-series-lte-cat1), [datasheet & documentation](https://docs.particle.io/datasheets/boron/b523-datasheet/).
 
 ### M.2 Base Boards
