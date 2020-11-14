@@ -113,6 +113,7 @@ Release date: 2017.
 [![Quark-N and Atom-N Carrier Board](./images/quarkn-atomn.png)](https://www.seeedstudio.com/Quantum-Mini-Linux-Development-Kit-p-4749.html)
 
 Quantum Development Kit with Quark-N SOM and Atom-M Carrier Board [product page](https://www.seeedstudio.com/Quantum-Mini-Linux-Development-Kit-p-4749.html)
+[GitHub](https://github.com/peng-zhihui/Project-Quantum)
 
 Release date: Dec 2020
 
