@@ -16,6 +16,7 @@ This repo, wiki, and issues/[discussions](https://github.com/adafruit/M.2/issues
 - [SNAPZZ](#SNAPZZ)
 - [SparkFun](#SparkFun)
 - [WRTnode](#WRTnode)
+- [Quark-N](#Quark-N)
 
 makerdiary, Particle, and SparkFun boards do not appear to be compatible at this time (see pinouts, links, and datasheets).
 
@@ -106,4 +107,13 @@ makerdiary, [Particle](https://twitter.com/Chris_Gammell/status/1319695770505875
 WRTnode2P - Devboard - [product page](http://wrtnode.com/w/?p=727), [DFRobot](https://www.dfrobot.com/product-1541.html), [datasheet & documentation](http://wrtnode.com/w/?p=727).
 
 Release date: 2017.
+
+## Quark-N
+
+[![Quark-N and Atom-N Carrier Board](./images/quarkn-atomn.png)](https://www.seeedstudio.com/Quantum-Mini-Linux-Development-Kit-p-4749.html)
+
+Quantum Development Kit with Quark-N SOM and Atom-M Carrier Board [product page](https://www.seeedstudio.com/Quantum-Mini-Linux-Development-Kit-p-4749.html)
+[GitHub](https://github.com/peng-zhihui/Project-Quantum)
+
+Release date: Dec 2020
 
